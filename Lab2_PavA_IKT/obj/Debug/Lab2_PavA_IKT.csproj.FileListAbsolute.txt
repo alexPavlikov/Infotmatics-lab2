@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab2_PavA_IKT\bin\Debug\Lab2_PavA_IKT.exe.config
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab2_PavA_IKT\bin\Debug\Lab2_PavA_IKT.exe
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab2_PavA_IKT\bin\Debug\Lab2_PavA_IKT.pdb
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab2_PavA_IKT\obj\Debug\Lab2_PavA_IKT.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab2_PavA_IKT\obj\Debug\Lab2_PavA_IKT.Properties.Resources.resources
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab2_PavA_IKT\obj\Debug\Lab2_PavA_IKT.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab2_PavA_IKT\obj\Debug\Lab2_PavA_IKT.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab2_PavA_IKT\obj\Debug\Lab2_PavA_IKT.exe
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab2_PavA_IKT\obj\Debug\Lab2_PavA_IKT.pdb
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\IKT\Lab2_PavA_IKT\obj\Debug\Lab2_PavA_IKT.DirectoryForm.resources
